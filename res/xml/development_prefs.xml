@@ -35,6 +35,7 @@
     <CheckBoxPreference 
         android:key="keep_screen_on" 
         android:title="@string/keep_screen_on" 
+        android:defaultValue="true" 
         android:summary="@string/keep_screen_on_summary"/>
 
     <ListPreference
